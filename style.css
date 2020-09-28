@@ -1,0 +1,14 @@
+body {
+  background-color: teal;
+  margin: 0;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+p {
+  line-height: 1.8;
+  color: white;
+}
